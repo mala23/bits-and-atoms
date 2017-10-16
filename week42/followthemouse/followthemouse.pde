@@ -1,10 +1,12 @@
 void setup()
 {
-  println(adding(1,2));
-  println(adding(2,10));
+  size(300,300);
+  background(0);
 }
-
-int adding(int parameter1, int parameter2)
+ 
+void draw()
 {
-  return parameter1 + parameter2;
+  background(0);
+  fill(random(0, 255), random(0, 255), random(0, 255));
+  ellipse(mouseX, mouseY, 60, 60);
 }
