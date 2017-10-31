@@ -2,13 +2,19 @@ int rotation;
 void setup()
 {
   size(900, 400);      // def. window size
+<<<<<<< HEAD
   background(255, 255, 255);
+=======
+>>>>>>> 94b62e38b34c42635a1c0996816787360113a148
 }
 
 void draw()
 {
+<<<<<<< HEAD
   car(200, 200);
   wheel(300, 300);
+=======
+>>>>>>> 94b62e38b34c42635a1c0996816787360113a148
   rotation++;
 }
 
