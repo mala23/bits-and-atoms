@@ -2,10 +2,13 @@ int rotation;
 void setup()
 {
   size(900, 400);      // def. window size
+  background(255, 255, 255);
 }
 
 void draw()
 {
+  car(200, 200);
+  wheel(300, 300);
   rotation++;
 }
 
