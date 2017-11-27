@@ -3,7 +3,7 @@ PFont font;
 size(200, 200);
 background(0);
 
-font = createFont("Kremlin", 32);
+font = loadFont("HydrophiliaIced-48.vlw");
 textFont(font, 32);
 text("word", 10, 50);
 textSize(70);
