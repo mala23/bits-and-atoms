@@ -1,9 +1,10 @@
 PFont font;
 
 size(200, 200);
-String[] fontList = PFont.list();
-printArray(fontList);
+background(0);
 
-font = createFont("Baskerville", 32);
-textFont(font);
-text("I (heart) Univers", 10, 50);
+font = createFont("Kremlin", 32);
+textFont(font, 32);
+text("word", 10, 50);
+textSize(70);
+text("word", 10, 100);
