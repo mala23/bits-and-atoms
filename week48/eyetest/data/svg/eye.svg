@@ -1,0 +1,10 @@
+<svg>
+<title>eye</title>
+<g id="eye">
+	<rect id="eye_background" y="50" style="fill:#EB2F2F;" width="198" height="100"/>
+	<path id="eye_iris" style="fill:#333333;" d="M99.1,145.1c-25.1,0-45.4-20.3-45.4-45.2S74,54.6,99.1,54.6s45.4,20.3,45.4,45.2
+		S124.2,145.1,99.1,145.1z M99.1,117.9c10,0,18.1-8.1,18.1-18s-8.1-18-18.1-18S81,90,81,99.9S89.2,117.9,99.1,117.9z"/>
+	<path id="eye_lash_bottom" style="fill:#FFFFFF;" d="M198,100v100H0V100h19c23.9,24,50.5,36,80,36s56.1-12,80-36H198z"/>
+	<path id="eye_lash_top" style="fill:#FFFFFF;" d="M198,100V0H0v100h19c23.9-24,50.5-36,80-36s56.1,12,80,36H198z"/>
+</g>
+</svg>
